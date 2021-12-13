@@ -1,0 +1,140 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model Subjects {
+  id                 Int                  @id @default(autoincrement())
+  SubjectName        String
+  SubjectCode        String
+  max                String
+  min                String
+  max25              String
+  maxtotal           String
+  mintotal           String
+  Syllabus           String
+  subjectcombination SubjectCombination[]
+  elective           ElectiveSubjectCom[]
+}
+
+model SubjectCombination {
+  subjects   Subjects @relation(fields: [subjectsId], references: [id])
+  subjectsId Int
+  status     Boolean
+  Semister   Semister @relation(fields: [semId], references: [id])
+  semId      Int
+  electiveId Int?
+  Syllabus   Int
+
+
+  @@id([semId, subjectsId])
+}
+
+model Semister {
+  id                        Int                        @id @default(autoincrement())
+  className                 String
+  departmentId              String
+  Section                   String
+  Institution               String
+  numIndex                  String
+  subjectcombination        SubjectCombination[]
+  bridgeSubjectCombinations BridgeSubjectCombination[]
+}
+
+model Department {
+  id   Int    @id @default(autoincrement())
+  name String
+}
+
+model Result {
+  id          String  @id @default(uuid())
+  RollId      String
+  StudentName String
+  Sem         String
+  EX1         String?
+  EX2         String?
+  EX3         String?
+  EX4         String?
+  EX5         String?
+  EX6         String?
+  EX7         String?
+  EX8         String?
+  EX9         String?
+  ExTotal     String?
+  IA1         String?
+  IA2         String?
+  IA3         String?
+  IA4         String?
+  IA5         String?
+  IA6         String?
+  IA7         String?
+  IA8         String?
+  IA9         String?
+  IATotal     String?
+  Total       String?
+  Result      String?
+  QP1         String?
+  QP2         String?
+  QP3         String?
+  QP4         String?
+  QP5         String?
+  QP6         String?
+  QP7         String?
+  QP8         String?
+  QP9         String?
+  BQ1         String?
+  BX1         String?
+  BI1         String?
+  BX2         String?
+  BI2         String?
+  BQ2         String?
+  BResult     String?
+  BQ3         String?
+  BX3         String?
+  BI3         String?
+  KResult     String?
+  ExamYear    String?
+  Department  String?
+  ExamOnDate  String?
+  Syllabus    String?
+  InsertID    String?
+}
+
+model BridgeSubject {
+  bgsubid      Int                        @id @default(autoincrement())
+  bsubjectName String
+  bsubjectCode String
+  bmax         String
+  bmin         String
+  iaop         String
+  bmaxtotal    String
+  bmintotal    String
+  combination  BridgeSubjectCombination[]
+}
+
+model BridgeSubjectCombination {
+
+  BridgeSubject        BridgeSubject? @relation(fields: [bridgeSubjectBgsubid], references: [bgsubid])
+  bridgeSubjectBgsubid Int
+  status               Boolean
+  kali                 Boolean
+  Semister             Semister?      @relation(fields: [semisterId], references: [id])
+  semisterId           Int
+
+  @@id([bridgeSubjectBgsubid, semisterId])
+}
+
+model ElectiveSubjectCom {
+  id         Int       @id @default(autoincrement())
+  Subjects   Subjects? @relation(fields: [subjectsId], references: [id])
+  subjectsId Int
+  electiveId Int?
+  semisterId Int
+}

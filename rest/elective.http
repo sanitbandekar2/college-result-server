@@ -1,0 +1,24 @@
+POST  http://localhost:3001/api/elective
+Content-Type: application/json 
+
+[
+{"electiveId":1,"subjectsId":37,"semisterId":6},
+{"electiveId":1,"subjectsId":43,"semisterId":6},
+{"electiveId":1,"subjectsId":44,"semisterId":6},
+{"electiveId":1,"subjectsId":45,"semisterId":6},
+{"electiveId":2,"subjectsId":82,"semisterId":12},
+{"electiveId":2,"subjectsId":87,"semisterId":12},
+{"electiveId":2,"subjectsId":88,"semisterId":12},
+{"electiveId":2,"subjectsId":89,"semisterId":12},
+{"electiveId":2,"subjectsId":90,"semisterId":12},
+{"electiveId":3,"subjectsId":120,"semisterId":17},
+{"electiveId":3,"subjectsId":125,"semisterId":17},
+{"electiveId":3,"subjectsId":126,"semisterId":17},
+{"electiveId":4,"subjectsId":170,"semisterId":24},
+{"electiveId":4,"subjectsId":175,"semisterId":24},
+{"electiveId":4,"subjectsId":176,"semisterId":24},
+{"electiveId":5,"subjectsId":213,"semisterId":17},
+{"electiveId":5,"subjectsId":219,"semisterId":24},
+{"electiveId":5,"subjectsId":220,"semisterId":24},
+{"electiveId":5,"subjectsId":221,"semisterId":24}
+]

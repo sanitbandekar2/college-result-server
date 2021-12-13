@@ -1,0 +1,341 @@
+POST  http://localhost:3001/api/semister
+Content-Type: application/json 
+
+[
+    {
+      "id": 1,
+      "className": "COMPUTER SCIENCE & ENGG",
+      "departmentId": "1",
+      "Section": "FIRST",
+      "Institution": "114",
+      "numIndex": "1"
+    },
+    {
+      "id": 2,
+      "className": "COMPUTER SCIENCE & ENGG",
+      "departmentId": "1",
+      "Section": "SECOND",
+      "Institution": "114",
+      "numIndex": "2"
+    },
+    {
+      "id": 3,
+      "className": "COMPUTER SCIENCE & ENGG",
+      "departmentId": "1",
+      "Section": "THIRD",
+      "Institution": "114",
+      "numIndex": "3"
+    },
+    {
+      "id": 4,
+      "className": "COMPUTER SCIENCE & ENGG",
+      "departmentId": "1",
+      "Section": "FOURTH",
+      "Institution": "114",
+      "numIndex": "4"
+    },
+    {
+      "id": 5,
+      "className": "COMPUTER SCIENCE & ENGG",
+      "departmentId": "1",
+      "Section": "FIFTH",
+      "Institution": "114",
+      "numIndex": "5"
+    },
+    {
+      "id": 6,
+      "className": "COMPUTER SCIENCE & ENGG",
+      "departmentId": "1",
+      "Section": "SIXTH",
+      "Institution": "114",
+      "numIndex": "6"
+    },
+    {
+      "id": 7,
+      "className": "CIVIL ENGINEERING",
+      "departmentId": "2",
+      "Section": "FIRST",
+      "Institution": "114",
+      "numIndex": "1"
+    },
+    {
+      "id": 8,
+      "className": "CIVIL ENGINEERING",
+      "departmentId": "2",
+      "Section": "SECOND",
+      "Institution": "114",
+      "numIndex": "2"
+    },
+    {
+      "id": 9,
+      "className": "CIVIL ENGINEERING",
+      "departmentId": "2",
+      "Section": "THIRD",
+      "Institution": "114",
+      "numIndex": "3"
+    },
+    {
+      "id": 10,
+      "className": "CIVIL ENGINEERING",
+      "departmentId": "2",
+      "Section": "FOURTH",
+      "Institution": "114",
+      "numIndex": "4"
+    },
+    {
+      "id": 11,
+      "className": "CIVIL ENGINEERING",
+      "departmentId": "2",
+      "Section": "FIFTH",
+      "Institution": "114",
+      "numIndex": "5"
+    },
+    {
+      "id": 12,
+      "className": "CIVIL ENGINEERING",
+      "departmentId": "2",
+      "Section": "SIXTH",
+      "Institution": "114",
+      "numIndex": "6"
+    },
+    {
+      "id": 13,
+      "className": "AUTOMOBILE ENGINEERING",
+      "departmentId": "3",
+      "Section": "FIRST",
+      "Institution": "114",
+      "numIndex": "1"
+    },
+    {
+      "id": 14,
+      "className": "AUTOMOBILE ENGINEERING",
+      "departmentId": "3",
+      "Section": "SECOND",
+      "Institution": "114",
+      "numIndex": "2"
+    },
+    {
+      "id": 15,
+      "className": "AUTOMOBILE ENGINEERING",
+      "departmentId": "3",
+      "Section": "THIRD",
+      "Institution": "114",
+      "numIndex": "3"
+    },
+    {
+      "id": 16,
+      "className": "AUTOMOBILE ENGINEERING",
+      "departmentId": "3",
+      "Section": "FOURTH",
+      "Institution": "114",
+      "numIndex": "4"
+    },
+    {
+      "id": 17,
+      "className": "AUTOMOBILE ENGINEERING",
+      "departmentId": "3",
+      "Section": "FIFTH",
+      "Institution": "114",
+      "numIndex": "5"
+    },
+    {
+      "id": 18,
+      "className": "AUTOMOBILE ENGINEERING",
+      "departmentId": "3",
+      "Section": "SIXTH",
+      "Institution": "114",
+      "numIndex": "6"
+    },
+    {
+      "id": 19,
+      "className": "ELECTRICAL & ELECTRONICS ENGG",
+      "departmentId": "4",
+      "Section": "FIRST",
+      "Institution": "114",
+      "numIndex": "1"
+    },
+    {
+      "id": 20,
+      "className": "ELECTRICAL & ELECTRONICS ENGG",
+      "departmentId": "4",
+      "Section": "SECOND",
+      "Institution": "114",
+      "numIndex": "2"
+    },
+    {
+      "id": 21,
+      "className": "ELECTRICAL & ELECTRONICS ENGG",
+      "departmentId": "4",
+      "Section": "THIRD",
+      "Institution": "114",
+      "numIndex": "3"
+    },
+    {
+      "id": 22,
+      "className": "ELECTRICAL & ELECTRONICS ENGG",
+      "departmentId": "4",
+      "Section": "FOURTH",
+      "Institution": "114",
+      "numIndex": "4"
+    },
+    {
+      "id": 23,
+      "className": "ELECTRICAL & ELECTRONICS ENGG",
+      "departmentId": "4",
+      "Section": "FIFTH",
+      "Institution": "114",
+      "numIndex": "5"
+    },
+    {
+      "id": 24,
+      "className": "ELECTRICAL & ELECTRONICS ENGG",
+      "departmentId": "4",
+      "Section": "SIXTH",
+      "Institution": "114",
+      "numIndex": "6"
+    },
+    {
+      "id": 25,
+      "className": "MECHANICAL ENGINEERING",
+      "departmentId": "5",
+      "Section": "FIRST",
+      "Institution": "114",
+      "numIndex": "1"
+    },
+    {
+      "id": 26,
+      "className": "MECHANICAL ENGINEERING",
+      "departmentId": "5",
+      "Section": "SECOND",
+      "Institution": "114",
+      "numIndex": "2"
+    },
+    {
+      "id": 27,
+      "className": "MECHANICAL ENGINEERING",
+      "departmentId": "5",
+      "Section": "THIRD",
+      "Institution": "114",
+      "numIndex": "3"
+    },
+    {
+      "id": 28,
+      "className": "MECHANICAL ENGINEERING",
+      "departmentId": "5",
+      "Section": "FOURTH",
+      "Institution": "114",
+      "numIndex": "4"
+    },
+    {
+      "id": 29,
+      "className": "MECHANICAL ENGINEERING",
+      "departmentId": "5",
+      "Section": "FIFTH",
+      "Institution": "114",
+      "numIndex": "5"
+    },
+    {
+      "id": 30,
+      "className": "MECHANICAL ENGINEERING",
+      "departmentId": "5",
+      "Section": "SIXTH",
+      "Institution": "114",
+      "numIndex": "6"
+    },
+    {
+      "id": 31,
+      "className": "COMMERCIAL PRACTICE",
+      "departmentId": "6",
+      "Section": "FIRST",
+      "Institution": "114",
+      "numIndex": "1"
+    },
+    {
+      "id": 32,
+      "className": "COMMERCIAL PRACTICE",
+      "departmentId": "6",
+      "Section": "SECOND",
+      "Institution": "114",
+      "numIndex": "2"
+    },
+    {
+      "id": 33,
+      "className": "COMMERCIAL PRACTICE",
+      "departmentId": "6",
+      "Section": "THIRD",
+      "Institution": "114",
+      "numIndex": "3"
+    },
+    {
+      "id": 34,
+      "className": "COMMERCIAL PRACTICE",
+      "departmentId": "6",
+      "Section": "FOURTH",
+      "Institution": "114",
+      "numIndex": "4"
+    },
+    {
+      "id": 35,
+      "className": "COMMERCIAL PRACTICE",
+      "departmentId": "6",
+      "Section": "FIFTH",
+      "Institution": "114",
+      "numIndex": "5"
+    },
+    {
+      "id": 36,
+      "className": "COMMERCIAL PRACTICE",
+      "departmentId": "6",
+      "Section": "SIXTH",
+      "Institution": "114",
+      "numIndex": "6"
+    },
+    {
+      "id": 37,
+      "className": "COMMERCIAL KANNADA",
+      "departmentId": "7",
+      "Section": "FIRST",
+      "Institution": "114",
+      "numIndex": "1"
+    },
+    {
+      "id": 38,
+      "className": "COMMERCIAL KANNADA",
+      "departmentId": "7",
+      "Section": "SECOND",
+      "Institution": "114",
+      "numIndex": "2"
+    },
+    {
+      "id": 39,
+      "className": "COMMERCIAL KANNADA",
+      "departmentId": "7",
+      "Section": "THIRD",
+      "Institution": "114",
+      "numIndex": "3"
+    },
+    {
+      "id": 40,
+      "className": "COMMERCIAL KANNADA",
+      "departmentId": "7",
+      "Section": "FOURTH",
+      "Institution": "114",
+      "numIndex": "4"
+    },
+    {
+      "id": 41,
+      "className": "COMMERCIAL KANNADA",
+      "departmentId": "7",
+      "Section": "FIFTH",
+      "Institution": "114",
+      "numIndex": "5"
+    },
+    {
+      "id": 42,
+      "className": "COMMERCIAL KANNADA",
+      "departmentId": "7",
+      "Section": "SIXTH",
+      "Institution": "114",
+      "numIndex": "6"
+    }
+  ]

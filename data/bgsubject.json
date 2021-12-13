@@ -1,0 +1,72 @@
+[
+    {
+      "bgsubid": 1,
+      "bsubjectName": "ENGG MATHS - I",
+      "bsubjectCode": "15SC01M ",
+      "bmax": "100",
+      "bmin": "35",
+      "iaop": "25",
+      "bmaxtotal": "125",
+      "bmintotal": "45"
+    },
+    {
+      "bgsubid": 2,
+      "bsubjectName": "ENGG MATHS-II",
+      "bsubjectCode": "15SC02M",
+      "bmax": "100",
+      "bmin": "35",
+      "iaop": "25",
+      "bmaxtotal": "125",
+      "bmintotal": "45"
+    },
+    {
+      "bgsubid": 3,
+      "bsubjectName": "COMMN SKILLS IN ENGLISH",
+      "bsubjectCode": "15CP01E",
+      "bmax": "100",
+      "bmin": "35",
+      "iaop": "25",
+      "bmaxtotal": "125",
+      "bmintotal": "45"
+    },
+    {
+      "bgsubid": 4,
+      "bsubjectName": "TANTRIKA KANNADA-1",
+      "bsubjectCode": "15KA3KT",
+      "bmax": "--",
+      "bmin": "--",
+      "iaop": "50",
+      "bmaxtotal": "50",
+      "bmintotal": "20"
+    },
+    {
+      "bgsubid": 5,
+      "bsubjectName": "TANTRIKA KANNADA-2",
+      "bsubjectCode": "15KA4KT",
+      "bmax": "50",
+      "bmin": "20",
+      "iaop": "--",
+      "bmaxtotal": "50",
+      "bmintotal": "20"
+    },
+    {
+      "bgsubid": 6,
+      "bsubjectName": "KANNADA KALI-2",
+      "bsubjectCode": "15KA4NT",
+      "bmax": "50",
+      "bmin": "20",
+      "iaop": "--",
+      "bmaxtotal": "50",
+      "bmintotal": "20"
+    },
+    {
+      "bgsubid": 7,
+      "bsubjectName": "KANNADA KALI-1",
+      "bsubjectCode": "15KA3NT",
+      "bmax": "--",
+      "bmin": "--",
+      "iaop": "50",
+      "bmaxtotal": "50",
+      "bmintotal": "20"
+    }
+  ]

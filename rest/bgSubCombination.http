@@ -1,0 +1,173 @@
+POST  http://localhost:3001/api/bgSubCombination
+Content-Type: application/json 
+
+[
+    {
+      "bridgeSubjectBgsubid": 4,
+      "status": false,
+      "kali": false,
+      "semisterId": 3
+    },
+    {
+      "bridgeSubjectBgsubid": 4,
+      "status": false,
+      "kali": false,
+      "semisterId": 9
+    },
+    {
+      "bridgeSubjectBgsubid": 4,
+      "status": false,
+      "kali": false,
+      "semisterId": 15
+    },
+    {
+      "bridgeSubjectBgsubid": 4,
+      "status": false,
+      "kali": false,
+      "semisterId": 21
+    },
+    {
+      "bridgeSubjectBgsubid": 4,
+      "status": false,
+      "kali": false,
+      "semisterId": 27
+    },
+    {
+      "bridgeSubjectBgsubid": 4,
+      "status": false,
+      "kali": false,
+      "semisterId": 33
+    },
+    {
+      "bridgeSubjectBgsubid": 4,
+      "status": false,
+      "kali": false,
+      "semisterId": 39
+    },
+    {
+      "bridgeSubjectBgsubid": 5,
+      "status": false,
+      "kali": false,
+      "semisterId": 4
+    },
+    {
+      "bridgeSubjectBgsubid": 5,
+      "status": false,
+      "kali": false,
+      "semisterId": 10
+    },
+    {
+      "bridgeSubjectBgsubid": 5,
+      "status": false,
+      "kali": false,
+      "semisterId": 16
+    },
+    {
+      "bridgeSubjectBgsubid": 5,
+      "status": false,
+      "kali": false,
+      "semisterId": 22
+    },
+    {
+      "bridgeSubjectBgsubid": 5,
+      "status": false,
+      "kali": false,
+      "semisterId": 28
+    },
+    {
+      "bridgeSubjectBgsubid": 5,
+      "status": false,
+      "kali": false,
+      "semisterId": 34
+    },
+    {
+      "bridgeSubjectBgsubid": 5,
+      "status": false,
+      "kali": false,
+      "semisterId": 40
+    },
+    {
+      "bridgeSubjectBgsubid": 6,
+      "status": false,
+      "kali": true,
+      "semisterId": 4
+    },
+    {
+      "bridgeSubjectBgsubid": 6,
+      "status": false,
+      "kali": true,
+      "semisterId": 10
+    },
+    {
+      "bridgeSubjectBgsubid": 6,
+      "status": false,
+      "kali": true,
+      "semisterId": 16
+    },
+    {
+      "bridgeSubjectBgsubid": 6,
+      "status": false,
+      "kali": true,
+      "semisterId": 22
+    },
+    {
+      "bridgeSubjectBgsubid": 6,
+      "status": false,
+      "kali": true,
+      "semisterId": 28
+    },
+    {
+      "bridgeSubjectBgsubid": 6,
+      "status": false,
+      "kali": true,
+      "semisterId": 34
+    },
+    {
+      "bridgeSubjectBgsubid": 6,
+      "status": false,
+      "kali": true,
+      "semisterId": 40
+    },
+    {
+      "bridgeSubjectBgsubid": 7,
+      "status": false,
+      "kali": true,
+      "semisterId": 3
+    },
+    {
+      "bridgeSubjectBgsubid": 7,
+      "status": false,
+      "kali": true,
+      "semisterId": 9
+    },
+    {
+      "bridgeSubjectBgsubid": 7,
+      "status": false,
+      "kali": true,
+      "semisterId": 15
+    },
+    {
+      "bridgeSubjectBgsubid": 7,
+      "status": false,
+      "kali": true,
+      "semisterId": 21
+    },
+    {
+      "bridgeSubjectBgsubid": 7,
+      "status": false,
+      "kali": true,
+      "semisterId": 27
+    },
+    {
+      "bridgeSubjectBgsubid": 7,
+      "status": false,
+      "kali": true,
+      "semisterId": 33
+    },
+    {
+      "bridgeSubjectBgsubid": 7,
+      "status": false,
+      "kali": true,
+      "semisterId": 39
+    }
+  ]
