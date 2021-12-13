@@ -58,6 +58,7 @@ model Result {
   RollId      String
   StudentName String
   Sem         String
+  Section     String
   EX1         String?
   EX2         String?
   EX3         String?
