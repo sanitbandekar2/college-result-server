@@ -19,6 +19,7 @@ CREATE TABLE `SubjectCombination` (
     `status` BOOLEAN NOT NULL,
     `semId` INTEGER NOT NULL,
     `electiveId` INTEGER NULL,
+    `Syllabus` INTEGER NOT NULL,
 
     PRIMARY KEY (`semId`, `subjectsId`)
 ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
@@ -49,6 +50,7 @@ CREATE TABLE `Result` (
     `RollId` VARCHAR(191) NOT NULL,
     `StudentName` VARCHAR(191) NOT NULL,
     `Sem` VARCHAR(191) NOT NULL,
+    `Section` VARCHAR(191) NOT NULL,
     `EX1` VARCHAR(191) NULL,
     `EX2` VARCHAR(191) NULL,
     `EX3` VARCHAR(191) NULL,
@@ -87,9 +89,9 @@ CREATE TABLE `Result` (
     `BI2` VARCHAR(191) NULL,
     `BQ2` VARCHAR(191) NULL,
     `BResult` VARCHAR(191) NULL,
-    `KQ1` VARCHAR(191) NULL,
-    `KX1` VARCHAR(191) NULL,
-    `KI1` VARCHAR(191) NULL,
+    `BQ3` VARCHAR(191) NULL,
+    `BX3` VARCHAR(191) NULL,
+    `BI3` VARCHAR(191) NULL,
     `KResult` VARCHAR(191) NULL,
     `ExamYear` VARCHAR(191) NULL,
     `Department` VARCHAR(191) NULL,
@@ -126,11 +128,12 @@ CREATE TABLE `BridgeSubjectCombination` (
 
 -- CreateTable
 CREATE TABLE `ElectiveSubjectCom` (
+    `id` INTEGER NOT NULL AUTO_INCREMENT,
     `subjectsId` INTEGER NOT NULL,
     `electiveId` INTEGER NULL,
     `semisterId` INTEGER NOT NULL,
 
-    PRIMARY KEY (`semisterId`)
+    PRIMARY KEY (`id`)
 ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
 -- AddForeignKey
@@ -147,6 +150,3 @@ ALTER TABLE `BridgeSubjectCombination` ADD CONSTRAINT `BridgeSubjectCombination_
 
 -- AddForeignKey
 ALTER TABLE `ElectiveSubjectCom` ADD CONSTRAINT `ElectiveSubjectCom_subjectsId_fkey` FOREIGN KEY (`subjectsId`) REFERENCES `Subjects`(`id`) ON DELETE RESTRICT ON UPDATE CASCADE;
-
--- AddForeignKey
-ALTER TABLE `ElectiveSubjectCom` ADD CONSTRAINT `ElectiveSubjectCom_semisterId_fkey` FOREIGN KEY (`semisterId`) REFERENCES `Semister`(`id`) ON DELETE RESTRICT ON UPDATE CASCADE;

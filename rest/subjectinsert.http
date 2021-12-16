@@ -3,8 +3,7 @@ Content-Type: application/json
 
 [
     {
-      "id": 1,
-      "SubjectName": "ENGG MATHS - I",
+         "SubjectName": "ENGG MATHS - I",
       "SubjectCode": "15SC01M",
       "max": "100",
       "min": "35",
@@ -14,8 +13,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 2,
-      "SubjectName": "APPLIED SCIENCE",
+         "SubjectName": "APPLIED SCIENCE",
       "SubjectCode": "15SC03S",
       "max": "100",
       "min": "35",
@@ -25,8 +23,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 3,
-      "SubjectName": "Concepts of Electrical & Electronics",
+         "SubjectName": "Concepts of Electrical & Electronics",
       "SubjectCode": "15EC01T",
       "max": "100",
       "min": "35",
@@ -36,8 +33,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 4,
-      "SubjectName": "APPLIED SCIENCE LAB",
+         "SubjectName": "APPLIED SCIENCE LAB",
       "SubjectCode": "15SC04P",
       "max": "50",
       "min": "25",
@@ -47,8 +43,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 5,
-      "SubjectName": "BASIC ELECTRONICS LAB",
+         "SubjectName": "BASIC ELECTRONICS LAB",
       "SubjectCode": "15EC02P",
       "max": "50",
       "min": "25",
@@ -58,8 +53,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 6,
-      "SubjectName": "B C S LAB",
+         "SubjectName": "B C S LAB",
       "SubjectCode": "15CS11P",
       "max": "50",
       "min": "25",
@@ -69,8 +63,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 7,
-      "SubjectName": "ENGG MATHS-II",
+         "SubjectName": "ENGG MATHS-II",
       "SubjectCode": "15SC02M",
       "max": "100",
       "min": "35",
@@ -80,8 +73,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 8,
-      "SubjectName": "COMMN SKILLS IN ENGLISH",
+         "SubjectName": "COMMN SKILLS IN ENGLISH",
       "SubjectCode": "15CP01E",
       "max": "100",
       "min": "35",
@@ -91,8 +83,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 9,
-      "SubjectName": "DIGITAL&COMP FUNDMNTLS",
+         "SubjectName": "DIGITAL&COMP FUNDMNTLS",
       "SubjectCode": "15CS21T",
       "max": "100",
       "min": "35",
@@ -102,8 +93,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 10,
-      "SubjectName": "DIGITAL ELECTRONICS LAB",
+          "SubjectName": "DIGITAL ELECTRONICS LAB",
       "SubjectCode": "15EC03P",
       "max": "50",
       "min": "25",
@@ -113,8 +103,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 11,
-      "SubjectName": "BASIC WEB DESIGN LAB",
+          "SubjectName": "BASIC WEB DESIGN LAB",
       "SubjectCode": "15CS22P",
       "max": "50",
       "min": "25",
@@ -124,8 +113,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 12,
-      "SubjectName": "MULTIMEDIA LAB",
+          "SubjectName": "MULTIMEDIA LAB",
       "SubjectCode": "15CS23P",
       "max": "50",
       "min": "25",
@@ -135,8 +123,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 13,
-      "SubjectName": "PROGRAMMING WITH C",
+          "SubjectName": "PROGRAMMING WITH C",
       "SubjectCode": "15CS31T",
       "max": "100",
       "min": "35",
@@ -146,8 +133,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 14,
-      "SubjectName": "COMPUTER ORGANISATION",
+          "SubjectName": "COMPUTER ORGANISATION",
       "SubjectCode": "15CS32T",
       "max": "100",
       "min": "35",
@@ -157,8 +143,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 15,
-      "SubjectName": "Database Management Systems",
+          "SubjectName": "Database Management Systems",
       "SubjectCode": "15CS33T",
       "max": "100",
       "min": "35",
@@ -168,8 +153,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 16,
-      "SubjectName": "COMPUTER NETWORK",
+          "SubjectName": "COMPUTER NETWORK",
       "SubjectCode": "15CS34T",
       "max": "100",
       "min": "35",
@@ -179,8 +163,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 17,
-      "SubjectName": "PROGRAMMING WITH C LAB",
+          "SubjectName": "PROGRAMMING WITH C LAB",
       "SubjectCode": "15CS35P",
       "max": "50",
       "min": "25",
@@ -190,8 +173,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 18,
-      "SubjectName": "DBMS AND GUI LAB",
+          "SubjectName": "DBMS AND GUI LAB",
       "SubjectCode": "15CS36P",
       "max": "50",
       "min": "25",
@@ -201,8 +183,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 19,
-      "SubjectName": "NETWORK ADMINISTRATION LAB",
+          "SubjectName": "NETWORK ADMINISTRATION LAB",
       "SubjectCode": "15CS37P",
       "max": "50",
       "min": "25",
@@ -212,8 +193,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 20,
-      "SubjectName": "DATA STRUCTRE USING C",
+          "SubjectName": "DATA STRUCTRE USING C",
       "SubjectCode": "15CS41T",
       "max": "100",
       "min": "35",
@@ -223,8 +203,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 21,
-      "SubjectName": "OOP WITH JAVA",
+          "SubjectName": "OOP WITH JAVA",
       "SubjectCode": "15CS42T",
       "max": "100",
       "min": "35",
@@ -234,8 +213,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 22,
-      "SubjectName": "OPERATING SYSTEM",
+          "SubjectName": "OPERATING SYSTEM",
       "SubjectCode": "15CS43T",
       "max": "100",
       "min": "35",
@@ -245,8 +223,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 23,
-      "SubjectName": "PROFESSIONAL ETHICS & INDIAN   CONSTITUTION",
+          "SubjectName": "PROFESSIONAL ETHICS & INDIAN   CONSTITUTION",
       "SubjectCode": "15CS44T",
       "max": "100",
       "min": "35",
@@ -256,8 +233,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 24,
-      "SubjectName": "DATA STRUCTURES LAB",
+          "SubjectName": "DATA STRUCTURES LAB",
       "SubjectCode": "15CS45P",
       "max": "50",
       "min": "25",
@@ -267,8 +243,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 25,
-      "SubjectName": "OOP WITH JAVA LAB",
+          "SubjectName": "OOP WITH JAVA LAB",
       "SubjectCode": "15CS46P",
       "max": "50",
       "min": "25",
@@ -278,8 +253,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 26,
-      "SubjectName": "Linux lab",
+          "SubjectName": "Linux lab",
       "SubjectCode": "15CS47P",
       "max": "50",
       "min": "25",
@@ -289,8 +263,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 27,
-      "SubjectName": "SOFTWARE ENGINEERING",
+          "SubjectName": "SOFTWARE ENGINEERING",
       "SubjectCode": "15CS51T",
       "max": "100",
       "min": "35",
@@ -300,8 +273,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 28,
-      "SubjectName": "WEB PROGRAMMING",
+          "SubjectName": "WEB PROGRAMMING",
       "SubjectCode": "15CS52T",
       "max": "100",
       "min": "35",
@@ -311,8 +283,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 29,
-      "SubjectName": "DESIGN AND ANALYSIS OF ALGORITHMS",
+          "SubjectName": "DESIGN AND ANALYSIS OF ALGORITHMS",
       "SubjectCode": "15CS53T",
       "max": "100",
       "min": "35",
@@ -322,8 +293,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 30,
-      "SubjectName": "GREEN COMPUTING",
+          "SubjectName": "GREEN COMPUTING",
       "SubjectCode": "15CS54T",
       "max": "100",
       "min": "35",
@@ -333,8 +303,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 31,
-      "SubjectName": "WEB PROGRAMMING  LAB",
+          "SubjectName": "WEB PROGRAMMING  LAB",
       "SubjectCode": "15CS55P",
       "max": "50",
       "min": "25",
@@ -344,8 +313,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 32,
-      "SubjectName": "DESIGN AND ANALYSIS OF ALGORITHMS LAB",
+          "SubjectName": "DESIGN AND ANALYSIS OF ALGORITHMS LAB",
       "SubjectCode": "15CS56P",
       "max": "50",
       "min": "25",
@@ -355,8 +323,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 33,
-      "SubjectName": "Professional practices",
+          "SubjectName": "Professional practices",
       "SubjectCode": "15CS57P",
       "max": "50",
       "min": "25",
@@ -366,8 +333,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 34,
-      "SubjectName": "Project  work-I",
+          "SubjectName": "Project  work-I",
       "SubjectCode": "15CS58P",
       "max": "--",
       "min": "--",
@@ -377,8 +343,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 35,
-      "SubjectName": "SOFTWARE TESTING",
+          "SubjectName": "SOFTWARE TESTING",
       "SubjectCode": "15CS61T",
       "max": "100",
       "min": "35",
@@ -388,8 +353,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 36,
-      "SubjectName": "NETWORK SECURITY & MANAGEMENT",
+          "SubjectName": "NETWORK SECURITY & MANAGEMENT",
       "SubjectCode": "15CS62T",
       "max": "100",
       "min": "35",
@@ -399,8 +363,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 37,
-      "SubjectName": "INTERNET OF THINGS (IOT)",
+          "SubjectName": "INTERNET OF THINGS (IOT)",
       "SubjectCode": "15CS63F",
       "max": "100",
       "min": "35",
@@ -410,8 +373,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 38,
-      "SubjectName": "SOFTWARE TESTING LAB",
+          "SubjectName": "SOFTWARE TESTING LAB",
       "SubjectCode": "15CS64P",
       "max": "50",
       "min": "25",
@@ -421,8 +383,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 39,
-      "SubjectName": "NETWORK SECURITY LAB",
+          "SubjectName": "NETWORK SECURITY LAB",
       "SubjectCode": "15CS65P",
       "max": "50",
       "min": "25",
@@ -432,8 +393,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 40,
-      "SubjectName": "INPLANT TRAINING",
+          "SubjectName": "INPLANT TRAINING",
       "SubjectCode": "18CS66P",
       "max": "--",
       "min": "--",
@@ -443,8 +403,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 41,
-      "SubjectName": "PROJECT WORK- II",
+          "SubjectName": "PROJECT WORK- II",
       "SubjectCode": "15CS67T",
       "max": "50",
       "min": "25",
@@ -454,8 +413,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 42,
-      "SubjectName": "Information  Storage and Management",
+          "SubjectName": "for test",
       "SubjectCode": "15CS63A",
       "max": "100",
       "min": "35",
@@ -465,8 +423,17 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 43,
-      "SubjectName": "Cloud Computing",
+          "SubjectName": "Information  Storage and Management",
+      "SubjectCode": "15CS63A",
+      "max": "100",
+      "min": "35",
+      "max25": "25",
+      "maxtotal": "125",
+      "mintotal": "45",
+      "Syllabus": "15"
+    },
+    {
+          "SubjectName": "Cloud Computing",
       "SubjectCode": "15CS63B",
       "max": "100",
       "min": "35",
@@ -476,8 +443,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 44,
-      "SubjectName": "Mobile Computing",
+          "SubjectName": "Mobile Computing",
       "SubjectCode": "15CS63C",
       "max": "100",
       "min": "35",
@@ -487,8 +453,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 45,
-      "SubjectName": "Communication Skills in English",
+          "SubjectName": "Communication Skills in English",
       "SubjectCode": "15CP01E",
       "max": "100",
       "min": "35",
@@ -498,8 +463,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 46,
-      "SubjectName": "Engineering Mathematics-I",
+          "SubjectName": "Engineering Mathematics-I",
       "SubjectCode": "15SC01M",
       "max": "100",
       "min": "35",
@@ -509,8 +473,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 47,
-      "SubjectName": "Materials of Construction",
+          "SubjectName": "Materials of Construction",
       "SubjectCode": "15CE11T",
       "max": "100",
       "min": "35",
@@ -520,8 +483,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 48,
-      "SubjectName": "Engineering Drawing-I",
+          "SubjectName": "Engineering Drawing-I",
       "SubjectCode": "15CE12D",
       "max": "100",
       "min": "35",
@@ -531,8 +493,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 49,
-      "SubjectName": "Basic Computer Skills  Lab",
+          "SubjectName": "Basic Computer Skills  Lab",
       "SubjectCode": "15CE13P",
       "max": "50",
       "min": "25",
@@ -542,8 +503,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 50,
-      "SubjectName": "Material Of construction Lab",
+          "SubjectName": "Material Of construction Lab",
       "SubjectCode": "15CE14P",
       "max": "50",
       "min": "25",
@@ -553,8 +513,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 51,
-      "SubjectName": "ENGINEERING MATHEMATICS – II",
+          "SubjectName": "ENGINEERING MATHEMATICS – II",
       "SubjectCode": "15SC02M",
       "max": "100",
       "min": "35",
@@ -564,8 +523,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 52,
-      "SubjectName": "APPLIED SCIENCE",
+          "SubjectName": "APPLIED SCIENCE",
       "SubjectCode": "15SC03S",
       "max": "100",
       "min": "35",
@@ -575,8 +533,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 53,
-      "SubjectName": "SURVEYING - I",
+          "SubjectName": "SURVEYING - I",
       "SubjectCode": "15CE21T",
       "max": "100",
       "min": "35",
@@ -586,8 +543,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 54,
-      "SubjectName": "ENGINEERING DRAWING-II",
+          "SubjectName": "ENGINEERING DRAWING-II",
       "SubjectCode": "15CE22D",
       "max": "100",
       "min": "35",
@@ -597,8 +553,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 55,
-      "SubjectName": "APPLIED SCIENCE LAB",
+          "SubjectName": "APPLIED SCIENCE LAB",
       "SubjectCode": "15SC04P",
       "max": "50",
       "min": "25",
@@ -608,8 +563,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 56,
-      "SubjectName": "SURVEYING PRACTICE - I",
+          "SubjectName": "SURVEYING PRACTICE - I",
       "SubjectCode": "15CE23P",
       "max": "50",
       "min": "25",
@@ -619,8 +573,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 57,
-      "SubjectName": "ENGINEERING MECHANICS AND STRENGTH OF MATERIALS",
+          "SubjectName": "ENGINEERING MECHANICS AND STRENGTH OF MATERIALS",
       "SubjectCode": "15CE31T",
       "max": "100",
       "min": "35",
@@ -630,8 +583,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 58,
-      "SubjectName": "WATER SUPPLY ENGINEERING",
+          "SubjectName": "WATER SUPPLY ENGINEERING",
       "SubjectCode": "15CE32T",
       "max": "100",
       "min": "35",
@@ -641,8 +593,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 59,
-      "SubjectName": "SURVEYING – II",
+          "SubjectName": "SURVEYING – II",
       "SubjectCode": "15CE33T",
       "max": "100",
       "min": "35",
@@ -652,8 +603,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 60,
-      "SubjectName": "CONSTRUCTION TECHNOLOGY",
+          "SubjectName": "CONSTRUCTION TECHNOLOGY",
       "SubjectCode": "15CE34T",
       "max": "100",
       "min": "35",
@@ -663,8 +613,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 61,
-      "SubjectName": "BUILDING PLANNING AND DRAWING",
+          "SubjectName": "BUILDING PLANNING AND DRAWING",
       "SubjectCode": "15CE35D",
       "max": "100",
       "min": "35",
@@ -674,8 +623,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 62,
-      "SubjectName": "SURVEYING PRACTICE - II",
+          "SubjectName": "SURVEYING PRACTICE - II",
       "SubjectCode": "15CE36P",
       "max": "50",
       "min": "25",
@@ -685,8 +633,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 63,
-      "SubjectName": "BASIC COMPUTER AIDED DRAFTING IN CIVIL ENGINEERING",
+          "SubjectName": "BASIC COMPUTER AIDED DRAFTING IN CIVIL ENGINEERING",
       "SubjectCode": "15CE37P",
       "max": "50",
       "min": "25",
@@ -696,8 +643,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 64,
-      "SubjectName": "HYDRAULICS",
+          "SubjectName": "HYDRAULICS",
       "SubjectCode": "15CE41T",
       "max": "100",
       "min": "35",
@@ -707,8 +653,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 65,
-      "SubjectName": "SANITARY ENGINEERING",
+          "SubjectName": "SANITARY ENGINEERING",
       "SubjectCode": "15CE42T",
       "max": "100",
       "min": "35",
@@ -718,8 +663,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 66,
-      "SubjectName": "CONCRETE TECHNOLOGY",
+          "SubjectName": "CONCRETE TECHNOLOGY",
       "SubjectCode": "15CE43T",
       "max": "100",
       "min": "35",
@@ -729,8 +673,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 67,
-      "SubjectName": "PROFESSIONAL ETHICS & INDIAN CONSTITUTION",
+          "SubjectName": "PROFESSIONAL ETHICS & INDIAN CONSTITUTION",
       "SubjectCode": "15CE44T",
       "max": "100",
       "min": "35",
@@ -740,8 +683,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 68,
-      "SubjectName": "SOIL & MATERIAL TESTING LAB",
+          "SubjectName": "SOIL & MATERIAL TESTING LAB",
       "SubjectCode": "15CE45P",
       "max": "50",
       "min": "25",
@@ -751,8 +693,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 69,
-      "SubjectName": "COMPUTER AIDED BUILDING PLANNING AND DRAWING",
+          "SubjectName": "COMPUTER AIDED BUILDING PLANNING AND DRAWING",
       "SubjectCode": "15CE46P",
       "max": "50",
       "min": "25",
@@ -762,8 +703,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 70,
-      "SubjectName": "HYDRAULICS AND ENVIRONMENTAL LAB",
+          "SubjectName": "HYDRAULICS AND ENVIRONMENTAL LAB",
       "SubjectCode": "15CE47P",
       "max": "50",
       "min": "25",
@@ -773,8 +713,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 71,
-      "SubjectName": "DESIGN OF REINFORCED CEMENT CONCRETE",
+          "SubjectName": "DESIGN OF REINFORCED CEMENT CONCRETE",
       "SubjectCode": "15CE51T",
       "max": "100",
       "min": "35",
@@ -784,8 +723,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 72,
-      "SubjectName": "WATER RESOURCES ENGINEERING",
+          "SubjectName": "WATER RESOURCES ENGINEERING",
       "SubjectCode": "15CE52T",
       "max": "100",
       "min": "35",
@@ -795,8 +733,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 73,
-      "SubjectName": "ESTIMATION AND COSTING",
+          "SubjectName": "ESTIMATION AND COSTING",
       "SubjectCode": "15CE53T",
       "max": "100",
       "min": "35",
@@ -806,8 +743,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 74,
-      "SubjectName": "TRANSPORTATION ENGINEERING",
+          "SubjectName": "TRANSPORTATION ENGINEERING",
       "SubjectCode": "15CE54T",
       "max": "100",
       "min": "35",
@@ -817,8 +753,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 75,
-      "SubjectName": "IRRIGATION AND BRIDGE DRAWING",
+          "SubjectName": "IRRIGATION AND BRIDGE DRAWING",
       "SubjectCode": "15CE55D",
       "max": "100",
       "min": "35",
@@ -828,8 +763,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 76,
-      "SubjectName": "CONSTRUCTION PRACTICE",
+          "SubjectName": "CONSTRUCTION PRACTICE",
       "SubjectCode": "15CE56P",
       "max": "50",
       "min": "25",
@@ -839,8 +773,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 77,
-      "SubjectName": "PROFESSIONAL PRACTICE",
+          "SubjectName": "PROFESSIONAL PRACTICE",
       "SubjectCode": "15CE57P",
       "max": "50",
       "min": "25",
@@ -850,8 +783,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 78,
-      "SubjectName": "PROJECT WORK-I",
+          "SubjectName": "PROJECT WORK-I",
       "SubjectCode": "15CE58P",
       "max": "--",
       "min": "--",
@@ -861,8 +793,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 79,
-      "SubjectName": "DESIGN OF STEEL AND MASONARY STRUCTURES",
+          "SubjectName": "DESIGN OF STEEL AND MASONARY STRUCTURES",
       "SubjectCode": "15CE61T",
       "max": "100",
       "min": "35",
@@ -872,8 +803,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 80,
-      "SubjectName": "PROJECT MANAGEMENT AND VALUATION",
+          "SubjectName": "PROJECT MANAGEMENT AND VALUATION",
       "SubjectCode": "15CE62T",
       "max": "100",
       "min": "35",
@@ -883,8 +813,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 81,
-      "SubjectName": "TOWN PLANNING",
+          "SubjectName": "TOWN PLANNING",
       "SubjectCode": "15CE63A",
       "max": "100",
       "min": "35",
@@ -894,8 +823,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 82,
-      "SubjectName": "COMPUTER APPLICATION LAB",
+          "SubjectName": "COMPUTER APPLICATION LAB",
       "SubjectCode": "15CE64P",
       "max": "50",
       "min": "25",
@@ -905,8 +833,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 83,
-      "SubjectName": "EXTENSIVE SURVEY CAMP/PROJECT",
+          "SubjectName": "EXTENSIVE SURVEY CAMP/PROJECT",
       "SubjectCode": "15CE65P",
       "max": "50",
       "min": "25",
@@ -916,8 +843,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 84,
-      "SubjectName": "PROJECT WORK-II",
+          "SubjectName": "PROJECT WORK-II",
       "SubjectCode": "15CE66P",
       "max": "50",
       "min": "25",
@@ -927,8 +853,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 85,
-      "SubjectName": "INPLANT TRAINING",
+          "SubjectName": "INPLANT TRAINING",
       "SubjectCode": "15CE67P",
       "max": "--",
       "min": "--",
@@ -938,8 +863,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 86,
-      "SubjectName": "GEO TECHNICAL ENGINEERING",
+          "SubjectName": "GEO TECHNICAL ENGINEERING",
       "SubjectCode": "15CE63B",
       "max": "100",
       "min": "35",
@@ -949,8 +873,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 87,
-      "SubjectName": "SOLID WASTE MANAGEMENT",
+          "SubjectName": "SOLID WASTE MANAGEMENT",
       "SubjectCode": "15CE63C",
       "max": "100",
       "min": "35",
@@ -960,8 +883,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 88,
-      "SubjectName": "ENVIRONMENTAL IMPACT ASSESSMENT",
+          "SubjectName": "ENVIRONMENTAL IMPACT ASSESSMENT",
       "SubjectCode": "15CE63F",
       "max": "100",
       "min": "35",
@@ -971,8 +893,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 89,
-      "SubjectName": "THEORY OF STRUCTURES",
+          "SubjectName": "THEORY OF STRUCTURES",
       "SubjectCode": "15CE63G",
       "max": "100",
       "min": "35",
@@ -982,8 +903,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 90,
-      "SubjectName": "COMMUNICATION SKILLS IN ENGLISH",
+          "SubjectName": "COMMUNICATION SKILLS IN ENGLISH",
       "SubjectCode": "15CP01E",
       "max": "100",
       "min": "35",
@@ -993,8 +913,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 91,
-      "SubjectName": "ENGINEERING MATHEMATICS – I",
+          "SubjectName": "ENGINEERING MATHEMATICS – I",
       "SubjectCode": "15SC01M",
       "max": "100",
       "min": "35",
@@ -1004,8 +923,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 92,
-      "SubjectName": "AUTOMOBILE ENGINEERING-1",
+          "SubjectName": "AUTOMOBILE ENGINEERING-1",
       "SubjectCode": "15AT11T",
       "max": "100",
       "min": "35",
@@ -1015,8 +933,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 93,
-      "SubjectName": "ENGINEERING GRAPHICS-I",
+          "SubjectName": "ENGINEERING GRAPHICS-I",
       "SubjectCode": "15ME12D",
       "max": "100",
       "min": "35",
@@ -1026,8 +943,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 94,
-      "SubjectName": "Basic Computer Skills Lab",
+          "SubjectName": "Basic Computer Skills Lab",
       "SubjectCode": "15AT12P",
       "max": "50",
       "min": "25",
@@ -1037,8 +953,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 95,
-      "SubjectName": "Automobile Engineering Lab-I",
+          "SubjectName": "Automobile Engineering Lab-I",
       "SubjectCode": "15AT13P",
       "max": "50",
       "min": "25",
@@ -1048,8 +963,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 96,
-      "SubjectName": "ENGINEERING MATHEMATICS – II",
+          "SubjectName": "ENGINEERING MATHEMATICS – II",
       "SubjectCode": "15SC02M",
       "max": "100",
       "min": "35",
@@ -1059,8 +973,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 97,
-      "SubjectName": "APPLIED SCIENCE",
+          "SubjectName": "APPLIED SCIENCE",
       "SubjectCode": "15SC03S",
       "max": "100",
       "min": "35",
@@ -1070,8 +983,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 98,
-      "SubjectName": "AUTOMOBILE ENGINEERING-II",
+          "SubjectName": "AUTOMOBILE ENGINEERING-II",
       "SubjectCode": "15AT21T",
       "max": "100",
       "min": "35",
@@ -1081,8 +993,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 99,
-      "SubjectName": "ENGINEERING GRAPHICS-II",
+          "SubjectName": "ENGINEERING GRAPHICS-II",
       "SubjectCode": "15ME21D",
       "max": "100",
       "min": "35",
@@ -1092,7 +1003,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 100,
+    
       "SubjectName": "APPLIED SCIENCE LAB",
       "SubjectCode": "15SC04P",
       "max": "50",
@@ -1103,7 +1014,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 101,
+    
       "SubjectName": "Automobile Engineering Lab-II",
       "SubjectCode": "15AT22P",
       "max": "50",
@@ -1114,7 +1025,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 102,
+    
       "SubjectName": "STRENGTH OF MATERIALS",
       "SubjectCode": "15ME31T",
       "max": "100",
@@ -1125,7 +1036,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 103,
+    
       "SubjectName": "Heat Power Engineering",
       "SubjectCode": "15AT31T",
       "max": "100",
@@ -1136,7 +1047,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 104,
+    
       "SubjectName": "MECHANICAL WORK SHOP TECHNOLOGY",
       "SubjectCode": "15ME05T",
       "max": "100",
@@ -1147,7 +1058,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 105,
+    
       "SubjectName": "Automobile Transmission &  control systems",
       "SubjectCode": "15AT32T",
       "max": "100",
@@ -1158,7 +1069,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 106,
+    
       "SubjectName": "Automobile transmission & Control systems Lab",
       "SubjectCode": "15AT33P",
       "max": "50",
@@ -1169,7 +1080,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 107,
+    
       "SubjectName": "MECHANICAL TESTING AND QUALITY CONTROL LAB",
       "SubjectCode": "15ME37P",
       "max": "50",
@@ -1180,7 +1091,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 108,
+    
       "SubjectName": "MACHINE SHOP",
       "SubjectCode": "15ME46P",
       "max": "50",
@@ -1191,7 +1102,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 109,
+    
       "SubjectName": "Fluid Power Transmission And Control",
       "SubjectCode": "15AT41T",
       "max": "100",
@@ -1202,7 +1113,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 110,
+    
       "SubjectName": "MECHANICS OF MACHINES",
       "SubjectCode": "15ME32T",
       "max": "100",
@@ -1213,7 +1124,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 111,
+    
       "SubjectName": "PROFESSIONAL ETHICS & INDIAN CONSTITUTION",
       "SubjectCode": "15ME44T",
       "max": "100",
@@ -1224,7 +1135,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 112,
+    
       "SubjectName": "Automobile Electrical and Electronics systems",
       "SubjectCode": "15AT42T",
       "max": "100",
@@ -1235,7 +1146,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 113,
+    
       "SubjectName": "Computer Aided Assembly Drawin",
       "SubjectCode": "15AT43P",
       "max": "50",
@@ -1246,7 +1157,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 114,
+    
       "SubjectName": "Automobile Electrical & Electronics System lab",
       "SubjectCode": "15AT44P",
       "max": "50",
@@ -1257,7 +1168,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 115,
+    
       "SubjectName": "MECHANICAL WORK SHOP PRACTICE",
       "SubjectCode": "15ME06P",
       "max": "50",
@@ -1268,7 +1179,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 116,
+    
       "SubjectName": "TRANSPORT AND INDUSTRIAL MANAGEMENT",
       "SubjectCode": "15AT51T",
       "max": "100",
@@ -1279,7 +1190,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 117,
+    
       "SubjectName": "ADVANCED  AUTOMOTIVE  SYSTEMS",
       "SubjectCode": "15AT52T",
       "max": "100",
@@ -1290,7 +1201,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 118,
+    
       "SubjectName": "DESIGN OF MACHINE ELEMENTS",
       "SubjectCode": "15AT53T",
       "max": "100",
@@ -1301,7 +1212,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 119,
+    
       "SubjectName": "Farm tractors and construction  Equipments",
       "SubjectCode": "15AT54A",
       "max": "100",
@@ -1312,7 +1223,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 120,
+    
       "SubjectName": "Parametric Lab",
       "SubjectCode": "15AT55P",
       "max": "50",
@@ -1323,7 +1234,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 121,
+    
       "SubjectName": "ADVANCED AUTOMOBILE SYSTEMS LAB",
       "SubjectCode": "15AT56P",
       "max": "50",
@@ -1334,7 +1245,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 122,
+    
       "SubjectName": "PROFESSIONAL PRACTICES",
       "SubjectCode": "15AT57P",
       "max": "50",
@@ -1345,7 +1256,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 123,
+    
       "SubjectName": "PROJECT WORK-I",
       "SubjectCode": "15AT58P",
       "max": "--",
@@ -1356,7 +1267,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 124,
+    
       "SubjectName": "ENERGY RESOURCES & ALTERNATIVE FUELS",
       "SubjectCode": "15AT54B",
       "max": "100",
@@ -1367,7 +1278,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 125,
+    
       "SubjectName": "Vehicle body Engineering",
       "SubjectCode": "15AT54C",
       "max": "100",
@@ -1378,7 +1289,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 126,
+    
       "SubjectName": "Automotive Mechanics",
       "SubjectCode": "15AT61T",
       "max": "100",
@@ -1389,7 +1300,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 127,
+    
       "SubjectName": "Automotive Electronics",
       "SubjectCode": "15AT62T",
       "max": "100",
@@ -1400,7 +1311,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 128,
+    
       "SubjectName": "Engine Maintenance and Estimation",
       "SubjectCode": "15AT63T",
       "max": "100",
@@ -1411,7 +1322,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 129,
+    
       "SubjectName": "Engine Testing Lab",
       "SubjectCode": "15AT64P",
       "max": "50",
@@ -1422,7 +1333,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 130,
+    
       "SubjectName": "Engine Recondition Lab",
       "SubjectCode": "15AT65P",
       "max": "50",
@@ -1433,7 +1344,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 131,
+    
       "SubjectName": "PROJECT WORK II",
       "SubjectCode": "15AT66P",
       "max": "50",
@@ -1444,7 +1355,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 132,
+    
       "SubjectName": "INPLANT TRAINING",
       "SubjectCode": "15AT67P",
       "max": "--",
@@ -1455,7 +1366,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 133,
+    
       "SubjectName": "APPLIED SCIENCE",
       "SubjectCode": "15SC03S",
       "max": "100",
@@ -1466,7 +1377,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 134,
+    
       "SubjectName": "ENGINEERING MATHEMATICS – I",
       "SubjectCode": "15SC01M",
       "max": "100",
@@ -1477,7 +1388,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 135,
+    
       "SubjectName": "ELEMENTS OF ELECTRICAL ENGG",
       "SubjectCode": "15EE11T",
       "max": "100",
@@ -1488,7 +1399,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 136,
+    
       "SubjectName": "APPLIED SCIENCE LAB",
       "SubjectCode": "15SC04P",
       "max": "50",
@@ -1499,7 +1410,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 137,
+    
       "SubjectName": "ELECTRICAL WIRING LAB",
       "SubjectCode": "15EE12P",
       "max": "50",
@@ -1510,7 +1421,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 138,
+    
       "SubjectName": "BASIC COMPUTER SKILLS LAB",
       "SubjectCode": "15EE13P",
       "max": "50",
@@ -1521,7 +1432,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 139,
+    
       "SubjectName": "COMMUNICATION SKILLS IN ENGLISH",
       "SubjectCode": "15CP01E",
       "max": "100",
@@ -1532,7 +1443,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 140,
+    
       "SubjectName": "ENGINEERING MATHEMATICS – II",
       "SubjectCode": "15SC02M",
       "max": "100",
@@ -1543,7 +1454,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 141,
+    
       "SubjectName": "ELECTRICAL CIRCUITS",
       "SubjectCode": "15EE21T",
       "max": "100",
@@ -1554,7 +1465,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 142,
+    
       "SubjectName": "ENGINEERING DRAWING",
       "SubjectCode": "15ME01D",
       "max": "100",
@@ -1565,7 +1476,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 143,
+    
       "SubjectName": "ELECTRICAL CIRCUITS LAB",
       "SubjectCode": "15EE22P",
       "max": "50",
@@ -1576,7 +1487,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 144,
+    
       "SubjectName": "C PROGRAMMING LAB",
       "SubjectCode": "15EE23P",
       "max": "50",
@@ -1587,7 +1498,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 145,
+    
       "SubjectName": "DC MACHINES AND ALTERNATORS",
       "SubjectCode": "15EE31T",
       "max": "100",
@@ -1598,7 +1509,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 146,
+    
       "SubjectName": "Electrical Power Generation",
       "SubjectCode": "15EE32T",
       "max": "100",
@@ -1609,7 +1520,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 147,
+    
       "SubjectName": "ANALOG ELECTRONICS",
       "SubjectCode": "15EE33T",
       "max": "100",
@@ -1620,7 +1531,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 148,
+    
       "SubjectName": "DIGITAL ELECTRONICS",
       "SubjectCode": "15EE34T",
       "max": "100",
@@ -1631,7 +1542,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 149,
+    
       "SubjectName": "DC MACHINES AND ALTERNATORS LAB",
       "SubjectCode": "15EE35P",
       "max": "50",
@@ -1642,7 +1553,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 150,
+    
       "SubjectName": "ANALOG AND DIGITAL LAB",
       "SubjectCode": "15EE36P",
       "max": "50",
@@ -1653,7 +1564,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 151,
+    
       "SubjectName": "CIRCUITS SIMULATION LAB",
       "SubjectCode": "15EE37P",
       "max": "50",
@@ -1664,7 +1575,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 152,
+    
       "SubjectName": "TRANSFORMERS AND AC MOTORS",
       "SubjectCode": "15EE41T",
       "max": "100",
@@ -1675,7 +1586,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 153,
+    
       "SubjectName": "ELECTRICAL MEASUREMENTS &MEASURING INSTRUMENTS",
       "SubjectCode": "15EE42T",
       "max": "100",
@@ -1686,7 +1597,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 154,
+    
       "SubjectName": "COMMUNICATION AND COMPUTER NETWORKS",
       "SubjectCode": "15EE43T",
       "max": "100",
@@ -1697,7 +1608,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 155,
+    
       "SubjectName": "PROFESSIONAL ETHICS & INDIAN CONSTITUTION",
       "SubjectCode": "15EE44T",
       "max": "100",
@@ -1708,7 +1619,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 156,
+    
       "SubjectName": "TRANSFORMERS AND AC MOTORS LAB",
       "SubjectCode": "15EE45P",
       "max": "50",
@@ -1719,7 +1630,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 157,
+    
       "SubjectName": "ELECTRICAL MEASUREMENT AND MEASURING INSTRUMENTS LAB",
       "SubjectCode": "15EE46P",
       "max": "50",
@@ -1730,7 +1641,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 158,
+    
       "SubjectName": "COMPUTER AIDED ELECTRICAL DRAFTING",
       "SubjectCode": "15EE47P",
       "max": "50",
@@ -1741,7 +1652,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 159,
+    
       "SubjectName": "POWER ELECTRONICS",
       "SubjectCode": "15EE51T",
       "max": "100",
@@ -1752,7 +1663,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 160,
+    
       "SubjectName": "TRANSMISION DISTRIBUTION AND UTILISATION",
       "SubjectCode": "15EE52T",
       "max": "100",
@@ -1763,7 +1674,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 161,
+    
       "SubjectName": "SWITCHGEAR AND PROTECTION",
       "SubjectCode": "15EE53T",
       "max": "100",
@@ -1774,7 +1685,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 162,
+    
       "SubjectName": "ELECTRICAL ESTIMATION AND COSTING",
       "SubjectCode": "15EE54T",
       "max": "100",
@@ -1785,7 +1696,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 163,
+    
       "SubjectName": "POWER ELECTRONICS LAB",
       "SubjectCode": "15EE55P",
       "max": "50",
@@ -1796,7 +1707,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 164,
+    
       "SubjectName": "PROTECTIVE RELAYS AND SERVICING LAB",
       "SubjectCode": "15EE56P",
       "max": "50",
@@ -1807,7 +1718,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 165,
+    
       "SubjectName": "ESTIMATION SIMULATION LAB",
       "SubjectCode": "15EE57P",
       "max": "50",
@@ -1818,7 +1729,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 166,
+    
       "SubjectName": "PROJECT WORK-I",
       "SubjectCode": "15EE58P",
       "max": "--",
@@ -1829,7 +1740,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 167,
+    
       "SubjectName": "INDUSTRIAL DRIVES AND CONTROL",
       "SubjectCode": "15EE61T",
       "max": "100",
@@ -1840,7 +1751,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 168,
+    
       "SubjectName": "BASIC MANAGEMENT SKILLS & ENERGY MANAGEMENT",
       "SubjectCode": "15EE62T",
       "max": "100",
@@ -1851,7 +1762,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 169,
+    
       "SubjectName": "MECHATRONICS",
       "SubjectCode": "15EE63A",
       "max": "100",
@@ -1862,7 +1773,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 170,
+    
       "SubjectName": "MOTOR CONTROLAND PLC LAB",
       "SubjectCode": "15EE64P",
       "max": "50",
@@ -1873,7 +1784,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 171,
+    
       "SubjectName": "PROFESSIONAL PRACTICE LAB",
       "SubjectCode": "15EE65P",
       "max": "50",
@@ -1884,7 +1795,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 172,
+    
       "SubjectName": "PROJECT WORK-II",
       "SubjectCode": "15EE66P",
       "max": "50",
@@ -1895,7 +1806,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 173,
+    
       "SubjectName": "INPLANT TRAINING ",
       "SubjectCode": "15EE67P ",
       "max": "--",
@@ -1906,7 +1817,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 174,
+    
       "SubjectName": "TESTING, MAINTENANCE AND CONTROL OF SUBSTATION",
       "SubjectCode": "15EE63B",
       "max": "100",
@@ -1917,7 +1828,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 175,
+    
       "SubjectName": "EMBEDDED SYSTEMS",
       "SubjectCode": "15EE64C",
       "max": "100",
@@ -1928,7 +1839,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 176,
+    
       "SubjectName": "COMMUNICATION SKILLS IN ENGLISH",
       "SubjectCode": "15CP01E",
       "max": "100",
@@ -1939,7 +1850,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 177,
+    
       "SubjectName": "ENGINEERING MATHEMATICS I",
       "SubjectCode": "15SC01M",
       "max": "100",
@@ -1950,7 +1861,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 178,
+    
       "SubjectName": "WORK SHOP TECHNOLOGY",
       "SubjectCode": "15ME11T",
       "max": "100",
@@ -1961,7 +1872,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 179,
+    
       "SubjectName": "ENGINEERING GRAPHICS-I",
       "SubjectCode": "15ME12D",
       "max": "100",
@@ -1972,7 +1883,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 180,
+    
       "SubjectName": "BASIC COMPUTER SKILLS LAB",
       "SubjectCode": "15ME13P",
       "max": "50",
@@ -1983,7 +1894,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 181,
+    
       "SubjectName": "BASIC WORK SHOP PRACTICE-I",
       "SubjectCode": "15ME14P",
       "max": "50",
@@ -1994,7 +1905,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 182,
+    
       "SubjectName": "ENGINEERING MATHEMATICS  II",
       "SubjectCode": "15SC02M",
       "max": "100",
@@ -2005,7 +1916,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 183,
+    
       "SubjectName": "APPLIED SCIENCE",
       "SubjectCode": "15SC03S",
       "max": "100",
@@ -2016,7 +1927,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 184,
+    
       "SubjectName": "BASIC ELECTRICAL AND   ELECTRONICS ENGINEERING",
       "SubjectCode": "15EE01E",
       "max": "100",
@@ -2027,7 +1938,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 185,
+    
       "SubjectName": "ENGINEERING GRAPHICS-II",
       "SubjectCode": "15ME21D",
       "max": "100",
@@ -2038,7 +1949,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 186,
+    
       "SubjectName": "APPLIED SCIENCE LAB",
       "SubjectCode": "15SC04P",
       "max": "50",
@@ -2049,7 +1960,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 187,
+    
       "SubjectName": "BASIC ELECTRICAL AND ELECTRONICS ENGINEERING LAB",
       "SubjectCode": "15EE02P",
       "max": "50",
@@ -2060,7 +1971,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 188,
+    
       "SubjectName": "STRENGTH OF MATERIALS",
       "SubjectCode": "15ME31T",
       "max": "100",
@@ -2071,7 +1982,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 189,
+    
       "SubjectName": "MECHANICS OF MACHINES",
       "SubjectCode": "15ME32T",
       "max": "100",
@@ -2082,7 +1993,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 190,
+    
       "SubjectName": "MECHANICAL MEASUREMENTS",
       "SubjectCode": "15ME33T",
       "max": "100",
@@ -2093,7 +2004,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 191,
+    
       "SubjectName": "MACHINE DRAWING",
       "SubjectCode": "15ME34D",
       "max": "100",
@@ -2104,7 +2015,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 192,
+    
       "SubjectName": "MECHANICAL  COMPUTER  AIDED  DRAFTING",
       "SubjectCode": "15ME35P",
       "max": "50",
@@ -2115,7 +2026,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 193,
+    
       "SubjectName": "BASIC WORK SHOP PRACTICE-II",
       "SubjectCode": "15ME36P",
       "max": "50",
@@ -2126,7 +2037,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 194,
+    
       "SubjectName": "MECHANICAL TESTING AND QUALITY CONTROL LAB",
       "SubjectCode": "15ME37P",
       "max": "50",
@@ -2137,7 +2048,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 195,
+    
       "SubjectName": "HYDRAULICS & PNEUMATICS",
       "SubjectCode": "15ME41T",
       "max": "100",
@@ -2148,7 +2059,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 196,
+    
       "SubjectName": "BASIC THERMAL ENGINEERING",
       "SubjectCode": "15ME42T",
       "max": "100",
@@ -2159,7 +2070,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 197,
+    
       "SubjectName": "MACHINE TOOL TECHNOLOGY",
       "SubjectCode": "15ME43T",
       "max": "100",
@@ -2170,7 +2081,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 198,
+    
       "SubjectName": "PROFESSIONAL ETHICS & INDIAN CONSTITUTION",
       "SubjectCode": "15ME44T",
       "max": "100",
@@ -2181,7 +2092,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 199,
+    
       "SubjectName": "HYDRAULICS AND PNEUMATIC LAB",
       "SubjectCode": "15ME45P",
       "max": "50",
@@ -2192,7 +2103,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 200,
+    
       "SubjectName": "MACHINE SHOP",
       "SubjectCode": "15ME46P",
       "max": "50",
@@ -2203,7 +2114,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 201,
+    
       "SubjectName": "C PROGRAMMING LAB",
       "SubjectCode": "15ME47P",
       "max": "50",
@@ -2214,7 +2125,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 202,
+    
       "SubjectName": "INDUSTRIAL MANAGEMENT",
       "SubjectCode": "15ME51T",
       "max": "100",
@@ -2225,7 +2136,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 203,
+    
       "SubjectName": "APPLIED THERMAL ENGINEERING",
       "SubjectCode": "15ME52T",
       "max": "100",
@@ -2236,7 +2147,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 204,
+    
       "SubjectName": "MACHINE DESIGN",
       "SubjectCode": "15ME53T",
       "max": "100",
@@ -2247,7 +2158,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 205,
+    
       "SubjectName": "MECHATRONICS",
       "SubjectCode": "15ME54T",
       "max": "100",
@@ -2258,7 +2169,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 206,
+    
       "SubjectName": "PROFESSIONAL PRACTICES",
       "SubjectCode": "15ME55P",
       "max": "50",
@@ -2269,7 +2180,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 207,
+    
       "SubjectName": "THERMAL ENGINEERING LAB",
       "SubjectCode": "15ME56P",
       "max": "50",
@@ -2280,7 +2191,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 208,
+    
       "SubjectName": "MECHATRONICS LAB",
       "SubjectCode": "15ME57P",
       "max": "50",
@@ -2291,7 +2202,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 209,
+    
       "SubjectName": "PROJECT WORK-I",
       "SubjectCode": "15ME58P",
       "max": "--",
@@ -2302,7 +2213,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 210,
+    
       "SubjectName": "ESTIMATION AND COSTING",
       "SubjectCode": "15ME61T",
       "max": "100",
@@ -2313,7 +2224,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 211,
+    
       "SubjectName": "COMPUTER INTEGRATED MANUFACTURING",
       "SubjectCode": "15ME62T",
       "max": "100",
@@ -2324,7 +2235,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 212,
+    
       "SubjectName": "REFRIGERATION AND AIR CONDITIONING",
       "SubjectCode": "15ME63F",
       "max": "100",
@@ -2335,7 +2246,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 213,
+    
       "SubjectName": "CNC LAB",
       "SubjectCode": "15ME64P",
       "max": "50",
@@ -2346,7 +2257,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 214,
+    
       "SubjectName": "Computer Aided Analysis and Simulation lab",
       "SubjectCode": "15ME65P",
       "max": "50",
@@ -2357,7 +2268,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 215,
+    
       "SubjectName": "PROJECT WORK-II",
       "SubjectCode": "15ME66P",
       "max": "50",
@@ -2368,7 +2279,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 216,
+    
       "SubjectName": "INPLANT TRAINING",
       "SubjectCode": "15ME67P",
       "max": "--",
@@ -2379,7 +2290,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 217,
+    
       "SubjectName": "AUTOMOBILE ENGINEERING",
       "SubjectCode": "15ME63A",
       "max": "100",
@@ -2390,7 +2301,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 218,
+    
       "SubjectName": "POWER PLANT ENGINEERING",
       "SubjectCode": "15ME63B",
       "max": "100",
@@ -2401,7 +2312,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 219,
+    
       "SubjectName": "RENEWABLE ENERGY RESOURCES",
       "SubjectCode": "15ME63C",
       "max": "100",
@@ -2412,7 +2323,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 220,
+    
       "SubjectName": "ENGLISH I",
       "SubjectCode": "15CP11T",
       "max": "100",
@@ -2423,7 +2334,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 221,
+    
       "SubjectName": "Business Studies - I",
       "SubjectCode": "15CP12T",
       "max": "100",
@@ -2434,7 +2345,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 222,
+    
       "SubjectName": "Financial Accounting - I",
       "SubjectCode": "15CP13T",
       "max": "100",
@@ -2445,7 +2356,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 223,
+    
       "SubjectName": "English Shorthand – I",
       "SubjectCode": "15CP14E",
       "max": "100",
@@ -2456,7 +2367,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 224,
+    
       "SubjectName": "Modern Business Practices",
       "SubjectCode": "15CP15P",
       "max": "50",
@@ -2467,7 +2378,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 225,
+    
       "SubjectName": "Basic Computer Applications – I",
       "SubjectCode": "15CP16P",
       "max": "50",
@@ -2478,7 +2389,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 226,
+    
       "SubjectName": "Kannada Shorthand – I",
       "SubjectCode": "15CP14K",
       "max": "100",
@@ -2489,7 +2400,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 227,
+    
       "SubjectName": "Financial Accounting - II",
       "SubjectCode": "15CP21T",
       "max": "100",
@@ -2500,7 +2411,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 228,
+    
       "SubjectName": "Elements of Business Statistics",
       "SubjectCode": "15CP22T",
       "max": "100",
@@ -2511,7 +2422,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 229,
+    
       "SubjectName": "Business Studies - II",
       "SubjectCode": "15CP23T",
       "max": "100",
@@ -2522,7 +2433,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 230,
+    
       "SubjectName": "English Shorthand – II",
       "SubjectCode": "15CP24E",
       "max": "100",
@@ -2533,7 +2444,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 231,
+    
       "SubjectName": "English Typewriting - I",
       "SubjectCode": "15CP25E",
       "max": "100",
@@ -2544,7 +2455,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 232,
+    
       "SubjectName": "English Typewriting - II",
       "SubjectCode": "15CP26E",
       "max": "100",
@@ -2555,7 +2466,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 233,
+    
       "SubjectName": "Basic Computer Applications – II",
       "SubjectCode": "15CP27P",
       "max": "50",
@@ -2566,7 +2477,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 234,
+    
       "SubjectName": "Kannada Typewriting – I",
       "SubjectCode": "15CP25K",
       "max": "100",
@@ -2577,7 +2488,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 235,
+    
       "SubjectName": "Kannada Typewriting – II",
       "SubjectCode": "15CP26K",
       "max": "100",
@@ -2588,7 +2499,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 236,
+    
       "SubjectName": "Financial Accounting - III",
       "SubjectCode": "15CP31T",
       "max": "100",
@@ -2599,7 +2510,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 237,
+    
       "SubjectName": "FUNCTIONAL MANAGEMENT",
       "SubjectCode": "15CP32T",
       "max": "100",
@@ -2610,7 +2521,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 238,
+    
       "SubjectName": "COMPANY LAW AND SECRETARIAL PRACTICE",
       "SubjectCode": "15CP33T",
       "max": "100",
@@ -2621,7 +2532,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 239,
+    
       "SubjectName": "ENGLISH SHORTHAND – III",
       "SubjectCode": "15CP34E",
       "max": "100",
@@ -2632,7 +2543,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 240,
+    
       "SubjectName": "ENGLISH TYPEWRITING –III",
       "SubjectCode": "15CP35E",
       "max": "100",
@@ -2643,7 +2554,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 241,
+    
       "SubjectName": "Desk Top Publishing",
       "SubjectCode": "15CP36P",
       "max": "50",
@@ -2654,7 +2565,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 242,
+    
       "SubjectName": "SECRETARIAL SKILLS AND PRACTICE",
       "SubjectCode": "15CP37P",
       "max": "50",
@@ -2665,7 +2576,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 243,
+    
       "SubjectName": "Kannada Shorthand - III",
       "SubjectCode": "15CP34K",
       "max": "100",
@@ -2676,7 +2587,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 244,
+    
       "SubjectName": "Kannada Typewriting – III",
       "SubjectCode": "15CP35K",
       "max": "100",
@@ -2687,7 +2598,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 245,
+    
       "SubjectName": "ENGLISH II",
       "SubjectCode": "15CP41T",
       "max": "100",
@@ -2698,7 +2609,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 246,
+    
       "SubjectName": "Financial Accounting - IV",
       "SubjectCode": "15CP42T",
       "max": "100",
@@ -2709,7 +2620,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 247,
+    
       "SubjectName": "INDIAN CONSTITUTION AND PROFESSIONAL ETHICS",
       "SubjectCode": "15CP43T",
       "max": "100",
@@ -2720,7 +2631,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 248,
+    
       "SubjectName": "ENGLISH SHORTHAND – IV",
       "SubjectCode": "15CP44E",
       "max": "100",
@@ -2731,7 +2642,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 249,
+    
       "SubjectName": "ENGLISH TYPEWRITING - IV",
       "SubjectCode": "15CP45E",
       "max": "100",
@@ -2742,7 +2653,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 250,
+    
       "SubjectName": "ENGLISH TYPEWRITING - V",
       "SubjectCode": "15CP46E",
       "max": "100",
@@ -2753,7 +2664,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 251,
+    
       "SubjectName": "Internet & E-Commerce Lab",
       "SubjectCode": "15CP47P",
       "max": "50",
@@ -2764,7 +2675,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 252,
+    
       "SubjectName": "Kannada Shorthand-IV",
       "SubjectCode": "15CP44K",
       "max": "100",
@@ -2775,7 +2686,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 253,
+    
       "SubjectName": "Kannada Typewriting – IV",
       "SubjectCode": "15CP45K",
       "max": "100",
@@ -2786,7 +2697,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 254,
+    
       "SubjectName": "Kannada Typewriting – V",
       "SubjectCode": "15CP46K",
       "max": "100",
@@ -2797,7 +2708,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 255,
+    
       "SubjectName": "Financial Accounting - V",
       "SubjectCode": "15CP51T",
       "max": "100",
@@ -2808,7 +2719,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 256,
+    
       "SubjectName": "BUSINESS AND INDUSTRIAL LAW",
       "SubjectCode": "15CP52T",
       "max": "100",
@@ -2819,7 +2730,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 257,
+    
       "SubjectName": "ELEMENTS OF ECONOMICS",
       "SubjectCode": "15CP53T",
       "max": "100",
@@ -2830,7 +2741,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 258,
+    
       "SubjectName": "BANKING LAW AND PRACTICE",
       "SubjectCode": "15CP54T",
       "max": "100",
@@ -2841,7 +2752,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 259,
+    
       "SubjectName": "English Shorthand Speed -V",
       "SubjectCode": "15CP55E",
       "max": "100",
@@ -2852,7 +2763,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 260,
+    
       "SubjectName": "PROFESSIONAL PRACTICES",
       "SubjectCode": "15CP56P",
       "max": "50",
@@ -2863,7 +2774,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 261,
+    
       "SubjectName": "Tally Accounting Package",
       "SubjectCode": "15CP57P",
       "max": "50",
@@ -2874,7 +2785,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 262,
+    
       "SubjectName": "PROJECT WORK-I",
       "SubjectCode": "15CP58P",
       "max": "--",
@@ -2885,7 +2796,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 263,
+    
       "SubjectName": "KANNADA SHORTHAND-V",
       "SubjectCode": "15CP55K",
       "max": "100",
@@ -2896,7 +2807,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 264,
+    
       "SubjectName": "Elements of Cost Accounting",
       "SubjectCode": "15CP61T",
       "max": "100",
@@ -2907,7 +2818,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 265,
+    
       "SubjectName": "INCOME TAX PRACTICE",
       "SubjectCode": "15CP62T",
       "max": "100",
@@ -2918,7 +2829,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 266,
+    
       "SubjectName": "INDIAN FINANCIAL SYSTEM",
       "SubjectCode": "15CP63T",
       "max": "100",
@@ -2929,7 +2840,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 267,
+    
       "SubjectName": "English Shorthand Elaboration  VI",
       "SubjectCode": "15CP64E",
       "max": "100",
@@ -2940,7 +2851,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 268,
+    
       "SubjectName": "Advanced Tally Accounting Package",
       "SubjectCode": "15CP65P",
       "max": "50",
@@ -2951,7 +2862,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 269,
+    
       "SubjectName": "INPLANT TRAINING",
       "SubjectCode": "15CP66P",
       "max": "--",
@@ -2962,7 +2873,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 270,
+    
       "SubjectName": "PROJECT WORK-II",
       "SubjectCode": "15CP67P",
       "max": "50",
@@ -2973,7 +2884,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 271,
+    
       "SubjectName": "ENGLISH I",
       "SubjectCode": "15CP11T",
       "max": "100",
@@ -2984,7 +2895,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 272,
+    
       "SubjectName": "Business Studies - I",
       "SubjectCode": "15CP12T",
       "max": "100",
@@ -2995,7 +2906,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 273,
+    
       "SubjectName": "Financial Accounting - I",
       "SubjectCode": "15CP13T",
       "max": "100",
@@ -3006,7 +2917,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 274,
+    
       "SubjectName": "Kannada Shorthand – I",
       "SubjectCode": "15CP14K",
       "max": "100",
@@ -3017,7 +2928,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 275,
+    
       "SubjectName": "Modern Business Practices",
       "SubjectCode": "15CP15P",
       "max": "50",
@@ -3028,7 +2939,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 276,
+    
       "SubjectName": "Basic Computer Applications – I",
       "SubjectCode": "15CP16P",
       "max": "50",
@@ -3039,7 +2950,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 277,
+    
       "SubjectName": "Financial Accounting - II",
       "SubjectCode": "15CP21T",
       "max": "100",
@@ -3050,7 +2961,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 278,
+    
       "SubjectName": "Elements of Business Statistics",
       "SubjectCode": "15CP22T",
       "max": "100",
@@ -3061,7 +2972,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 279,
+    
       "SubjectName": "Business Studies - II",
       "SubjectCode": "15CP23T",
       "max": "100",
@@ -3072,7 +2983,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 280,
+    
       "SubjectName": "Kannada shorthand – I",
       "SubjectCode": "15CP24K",
       "max": "100",
@@ -3083,7 +2994,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 281,
+    
       "SubjectName": "Kannada Typewriting – I",
       "SubjectCode": "15CP25K",
       "max": "100",
@@ -3094,7 +3005,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 282,
+    
       "SubjectName": "Kannada Typewriting – II",
       "SubjectCode": "15CP26K",
       "max": "100",
@@ -3105,7 +3016,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 283,
+    
       "SubjectName": "Basic Computer Applications – II",
       "SubjectCode": "15CP27P",
       "max": "50",
@@ -3116,7 +3027,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 284,
+    
       "SubjectName": "Financial Accounting - III",
       "SubjectCode": "15CP31T",
       "max": "100",
@@ -3127,7 +3038,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 285,
+    
       "SubjectName": "FUNCTIONAL MANAGEMENT",
       "SubjectCode": "15CP32T",
       "max": "100",
@@ -3138,7 +3049,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 286,
+    
       "SubjectName": "COMPANY LAW AND SECRETARIAL PRACTICE",
       "SubjectCode": "15CP33T",
       "max": "100",
@@ -3149,7 +3060,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 287,
+    
       "SubjectName": "Kannada Shorthand - III",
       "SubjectCode": "15CP34K",
       "max": "100",
@@ -3160,7 +3071,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 288,
+    
       "SubjectName": "Kannada Typewriting – III",
       "SubjectCode": "15CP35K",
       "max": "100",
@@ -3171,7 +3082,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 289,
+    
       "SubjectName": "Desk Top Publishing",
       "SubjectCode": "15CP36P",
       "max": "50",
@@ -3182,7 +3093,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 290,
+    
       "SubjectName": "SECRETARIAL SKILLS AND PRACTICE",
       "SubjectCode": "15CP37P",
       "max": "50",
@@ -3193,7 +3104,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 291,
+    
       "SubjectName": "ENGLISH II",
       "SubjectCode": "15CP41T",
       "max": "100",
@@ -3204,7 +3115,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 292,
+    
       "SubjectName": "Financial Accounting - IV",
       "SubjectCode": "15CP42T",
       "max": "100",
@@ -3215,7 +3126,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 293,
+    
       "SubjectName": "INDIAN CONSTITUTION AND PROFESSIONAL ETHICS",
       "SubjectCode": "15CP43T",
       "max": "100",
@@ -3226,7 +3137,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 294,
+    
       "SubjectName": "Kannada Shorthand-IV",
       "SubjectCode": "15CP44K",
       "max": "100",
@@ -3237,7 +3148,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 295,
+    
       "SubjectName": "Kannada Typewriting – IV",
       "SubjectCode": "15CP45K",
       "max": "100",
@@ -3248,7 +3159,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 296,
+    
       "SubjectName": "Kannada Typewriting – V",
       "SubjectCode": "15CP46K",
       "max": "100",
@@ -3259,7 +3170,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 297,
+    
       "SubjectName": "Internet & E-Commerce Lab",
       "SubjectCode": "15CP47P",
       "max": "50",
@@ -3270,7 +3181,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 298,
+    
       "SubjectName": "Financial Accounting - V",
       "SubjectCode": "15CP51T",
       "max": "100",
@@ -3281,7 +3192,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 299,
+    
       "SubjectName": "BUSINESS AND INDUSTRIAL LAW",
       "SubjectCode": "15CP52T",
       "max": "100",
@@ -3292,7 +3203,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 300,
+    
       "SubjectName": "ELEMENTS OF ECONOMICS",
       "SubjectCode": "15CP53T",
       "max": "100",
@@ -3303,7 +3214,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 301,
+    
       "SubjectName": "BANKING LAW AND PRACTICE",
       "SubjectCode": "15CP54T",
       "max": "100",
@@ -3314,7 +3225,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 302,
+    
       "SubjectName": "KANNADA SHORTHAND-V",
       "SubjectCode": "15CP55K",
       "max": "100",
@@ -3325,7 +3236,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 303,
+    
       "SubjectName": "PROFESSIONAL PRACTICES",
       "SubjectCode": "15CP56P",
       "max": "50",
@@ -3336,7 +3247,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 304,
+    
       "SubjectName": "Tally Accounting Package",
       "SubjectCode": "15CP57P",
       "max": "50",
@@ -3347,7 +3258,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 305,
+    
       "SubjectName": "PROJECT WORK-I",
       "SubjectCode": "15CP58P",
       "max": "--",
@@ -3358,7 +3269,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 306,
+    
       "SubjectName": "Elements of Cost Accounting",
       "SubjectCode": "15CP61T",
       "max": "100",
@@ -3369,7 +3280,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 307,
+    
       "SubjectName": "INCOME TAX PRACTICE",
       "SubjectCode": "15CP62T",
       "max": "100",
@@ -3380,7 +3291,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 308,
+    
       "SubjectName": "INDIAN FINANCIAL SYSTEM",
       "SubjectCode": "15CP63T",
       "max": "100",
@@ -3391,7 +3302,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 309,
+    
       "SubjectName": "Kannada Shorthand VI",
       "SubjectCode": "15CP64E",
       "max": "100",
@@ -3402,7 +3313,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 310,
+    
       "SubjectName": "Advanced Tally Accounting Package",
       "SubjectCode": "15CP65P",
       "max": "50",
@@ -3413,7 +3324,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 311,
+    
       "SubjectName": "INPLANT TRAINING",
       "SubjectCode": "15CP66P",
       "max": "--",
@@ -3424,7 +3335,7 @@ Content-Type: application/json
       "Syllabus": "15"
     },
     {
-      "id": 312,
+    
       "SubjectName": "PROJECT WORK-II",
       "SubjectCode": "15CP67P",
       "max": "50",

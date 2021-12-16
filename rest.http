@@ -1,14 +1,23 @@
-GET  http://localhost:3001/api/3
-###
 GET  http://localhost:3001/api/
+###
+GET  http://localhost:3001/api/classes
+###
+GET  http://localhost:3001/api/deleteResult
+###
+POST   http://localhost:3001/api/resultSemUpdate
+Content-Type: application/json
+
+{ "numidex":["7", "8", "9", "10", "11", "12"], 
+"semId" : ["1","2","3","4","5","6"],
+"insertionId" : "11b6d35f-3034-4db0-957d-425ce7011dbf"}
 ###
 GET  http://localhost:3001/api/b6f106e5-fb5b-43a1-bd96-b11ac87f3457
 ###
-GET  http://localhost:3001/api/semister/3
+GET  http://localhost:3001/api/semister/2
 ###
-GET  http://localhost:3001/api/result/142a3ced-d2a5-474b-b32a-4e93c3d683c3/2
+GET  http://localhost:3001/api/result/bffd777e-2946-42a2-a974-1632fe68d9fb/12
 ###
-GET  http://localhost:3001/api/resultList/114CS18018
+GET  http://localhost:3001/api/resultList/114CE17038
 
 ###
 POST  http://localhost:3000/api/create

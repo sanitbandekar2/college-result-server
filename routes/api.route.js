@@ -2,6 +2,46 @@ const router = require("express").Router();
 const { PrismaClient } = require("@prisma/client");
 
 const prisma = new PrismaClient();
+router.get("/classes", async (req, res, next) => {
+  try {
+    const classes = await prisma.semister.groupBy({
+      by: ["className"],
+    });
+    res.send(classes);
+  } catch (error) {
+    next(error);
+  }
+});
+router.get("/deleteResult", async (req, res, next) => {
+  try {
+    const classes = await prisma.subjects.deleteMany({});
+    res.send(classes);
+  } catch (error) {
+    next(error);
+  }
+});
+
+router.post("/resultSemUpdate", async (req, res, next) => {
+  let numIdex = [];
+  let semIds = [];
+  numIdex = req.body.numidex;
+  semIds = req.body.semId;
+  console.log(req.body.insertionId);
+  try {
+    for (let index = 0; index < numIdex.length; index++) {
+      const classes = await prisma.result.updateMany({
+        where: {
+          Sem: semIds[index],
+          InsertID: req.body.insertionId,
+        },
+        data: { Sem: numIdex[index] },
+      });
+    }
+    res.send("ok");
+  } catch (error) {
+    next(error);
+  }
+});
 
 router.get("/semister/:id", async (req, res, next) => {
   // res.send({ message: "Ok api is working 🚀 sanit" });
@@ -29,6 +69,7 @@ router.get("/resultList/:id", async (req, res, next) => {
         Sem: true,
         Syllabus: true,
         ExamYear: true,
+        Section: true,
       },
     });
     res.send(create);
@@ -111,26 +152,8 @@ router.get("/:id", async (req, res, next) => {
 
 router.get("/", async (req, res, next) => {
   try {
-    const classes = await prisma.semister.groupBy({
-      by: ["className"],
-    });
+    const classes = await prisma.subjectCombination.findMany({});
     res.send(classes);
-  } catch (error) {
-    next(error);
-  }
-});
-router.get("/classes", async (req, res, next) => {
-  // try {
-  //   const classes = await prisma.semister.groupBy({
-  //     by: ["className"],
-  //   });
-  //   res.send(classes);
-  // } catch (error) {
-  //   next(error);
-  // }
-
-  try {
-    res.send({ message: "Ok api is working 🚀" });
   } catch (error) {
     next(error);
   }
