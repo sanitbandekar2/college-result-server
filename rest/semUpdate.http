@@ -3,7 +3,7 @@ Content-Type: application/json
 
 { "numidex":["7", "8", "9", "10", "11", "12"], 
 "semId" : ["1","2","3","4","5","6"],
-"insertionId" : "11b6d35f-3034-4db0-957d-425ce7011dbf"}
+"insertionId" : ""}
 
 ### AUTOMOBILE ENGINEERING
 POST   http://localhost:3001/api/resultSemUpdate
@@ -11,7 +11,7 @@ Content-Type: application/json
 
 { "numidex":["13", "14", "15", "16", "17", "18"], 
 "semId" : ["1","2","3","4","5","6"],
-"insertionId" : "11b6d35f-3034-4db0-957d-425ce7011dbf"}
+"insertionId" : ""}
 
 ### ELECTRICAL & ELECTRONICS ENGG
 
@@ -20,7 +20,7 @@ Content-Type: application/json
 
 { "numidex":["19", "20", "21", "22", "23", "24"], 
 "semId" : ["1","2","3","4","5","6"],
-"insertionId" : "44d39a91-4377-43fa-aff9-3c37679e8696"}
+"insertionId" : ""}
 
 ### MECHANICAL ENGINEERING
 
@@ -29,7 +29,7 @@ Content-Type: application/json
 
 { "numidex":["25", "26", "27", "28", "29", "30"], 
 "semId" : ["1","2","3","4","5","6"],
-"insertionId" : "11b6d35f-3034-4db0-957d-425ce7011dbf"}
+"insertionId" : ""}
 
 ### COMMERCIAL PRACTICE
 POST   http://localhost:3001/api/resultSemUpdate
@@ -37,7 +37,7 @@ Content-Type: application/json
 
 { "numidex":["31", "32", "33", "34", "35", "36"], 
 "semId" : ["1","2","3","4","5","6"],
-"insertionId" : "11b6d35f-3034-4db0-957d-425ce7011dbf"}
+"insertionId" : ""}
 
 ### COMMERCIAL KANNADA
 POST   http://localhost:3001/api/resultSemUpdate
@@ -45,4 +45,4 @@ Content-Type: application/json
 
 { "numidex":["37", "38", "39", "40", "41", "42"], 
 "semId" : ["1","2","3","4","5","6"],
-"insertionId" : "11b6d35f-3034-4db0-957d-425ce7011dbf"}
+"insertionId" : ""}

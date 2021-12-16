@@ -14,7 +14,11 @@ router.get("/classes", async (req, res, next) => {
 });
 router.get("/deleteResult", async (req, res, next) => {
   try {
-    const classes = await prisma.subjects.deleteMany({});
+    const classes = await prisma.result.deleteMany({
+      where: {
+        InsertID: "83c40008-f379-4a24-9674-6ff0dd1a442e",
+      },
+    });
     res.send(classes);
   } catch (error) {
     next(error);
@@ -60,6 +64,9 @@ router.get("/resultList/:id", async (req, res, next) => {
   // res.send({ message: "Ok api is working 🚀 sanit" });
   try {
     const create = await prisma.result.findMany({
+      orderBy: {
+        ExamYear: "desc",
+      },
       where: {
         RollId: req.params.id,
       },

@@ -21,26 +21,9 @@ GET  http://localhost:3001/api/resultList/114CE17038
 
 ###
 POST  http://localhost:3000/api/create
-Content-Type: application/json 
 
-[
-{"electiveid":1,"Subjectid":37,"semId":6},
-{"electiveid":1,"Subjectid":43,"semId":6},
-{"electiveid":1,"Subjectid":44,"semId":6},
-{"electiveid":1,"Subjectid":45,"semId":6},
-{"electiveid":2,"Subjectid":82,"semId":12},
-{"electiveid":2,"Subjectid":87,"semId":12},
-{"electiveid":2,"Subjectid":88,"semId":12},
-{"electiveid":2,"Subjectid":89,"semId":12},
-{"electiveid":2,"Subjectid":90,"semId":12},
-{"electiveid":3,"Subjectid":120,"semId":17},
-{"electiveid":3,"Subjectid":125,"semId":17},
-{"electiveid":3,"Subjectid":126,"semId":17},
-{"electiveid":4,"Subjectid":170,"semId":24},
-{"electiveid":4,"Subjectid":175,"semId":24},
-{"electiveid":4,"Subjectid":176,"semId":24},
-{"electiveid":5,"Subjectid":213,"semId":17},
-{"electiveid":5,"Subjectid":219,"semId":24},
-{"electiveid":5,"Subjectid":220,"semId":24},
-{"electiveid":5,"Subjectid":221,"semId":24}
-]
+
+###
+GET https://squaremarks-api.herokuapp.com/api/classes/
+
+
