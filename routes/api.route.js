@@ -65,7 +65,7 @@ router.get("/resultList/:id", async (req, res, next) => {
   try {
     const create = await prisma.result.findMany({
       orderBy: {
-        ExamYear: "desc",
+        Section: "desc",
       },
       where: {
         RollId: req.params.id,
